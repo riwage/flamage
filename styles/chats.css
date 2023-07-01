@@ -1,0 +1,168 @@
+.shadow {
+  box-shadow: 0 2px 15px rgb(0 0 0 / 68%);
+}
+
+/* Chat List */
+.ce-wrapper {
+  background-color: #ffffff !important;
+}
+
+.ce-chats-container {
+  background-color: #ffffff !important;
+  border-radius: 0px !important;
+}
+
+.ce-chat-form-container {
+  background-color: #ffffff !important;
+  color: rgb(0, 0, 0);
+}
+
+.ce-chat-card {
+  margin: 0px 6px !important;
+}
+
+.ce-chat-card-loading-bar {
+  background-color: #ffffff !important;
+}
+
+.ce-active-chat-card {
+  background-color: #ffffff !important;
+  outline: #000000;
+  border: 2px solid #cacaca !important;
+}
+
+.ce-chat-title-text {
+  color: rgb(0, 0, 0) !important;
+}
+
+.ce-chat-subtitle-text {
+  color: hsla(0, 0%, 0%, 0.568) !important;
+}
+
+.ce-chat-unread-dot {
+  background-color: white !important;
+}
+
+/* Chat Feed */
+
+.ce-chat-title-container {
+  background-color: #ffffff !important;
+  border-radius: 0px !important;
+}
+
+.ce-chat-feed-container {
+  background-color: #ffffff !important;
+}
+
+.ce-primary-button {
+  background-color: #000000 !important;
+}
+
+.ce-message-date-text {
+  color: hsla(0, 0%, 100%) !important;
+}
+
+.ce-my-message-bubble {
+  background-color: #000000 !important;
+}
+
+.ce-my-message-sinding-bubble {
+  background-color: #000000 !important;
+}
+
+.ce-my-message-timestamp {
+  color: #ffffff !important;
+}
+
+.ce-their-message-timestamp {
+  color: hsl(0, 0%, 100%) !important;
+}
+
+#ce-send-message-button {
+  background-color: #000000 !important;
+}
+
+#ce-ice-breaker-gif {
+  max-width: 115px !important;
+  margin-top: 30px !important;
+}
+
+.ce-social-message-form {
+  background-color: #ffffff !important;
+  border: 1px solid #cacaca !important;
+}
+
+.ce-message-input-form {
+  padding-bottom: 10px !important;
+}
+
+#msg-textarea {
+  width: calc(100% - 140px) !important;
+  position: relative !important;
+  top: 4px !important;
+  border-width: 0px !important;
+  background-color: #ffffff !important;
+  color: rgb(0, 0, 0) !important;
+}
+#msg-textarea::placeholder {
+  color: hsla(0, 0%, 50%, 0.568) !important;
+}
+
+#ce-upload-document-icon {
+  color: rgb(0, 0, 0) !important;
+}
+
+.ce-feed-container-bottom {
+  height: "44px";
+}
+
+.ce-message-images-row {
+  background-color: #ffffff !important;
+  border: 1px solid #cacaca !important;
+}
+
+.ce-their-message-sender {
+  color: hsla(0, 0%, 0%, 0.568) !important;
+}
+
+.ce-their-message-bubble {
+  background-color: #000000 !important;
+  color: rgba(255, 255, 255) !important;
+}
+
+/* Chat Settings */
+
+.ce-settings {
+  background-color: #ffffff !important;
+  border-radius: 0px !important;
+}
+
+.ce-chat-title-form .ce-text-input {
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+}
+
+.ce-section-title-container {
+  background-color: #ffffff !important;
+  color: rgb(0, 0, 0);
+}
+
+#ce-options-drop-down {
+  background-color: #ffffff !important;
+  color: rgb(0, 0, 0);
+}
+
+.ce-person-text {
+  color: hsla(0, 0%, 0%);
+}
+
+.ce-danger-button {
+  background-color: #ffffff !important;
+  border: 1px solid #cacaca !important;
+  color: #000000 !important;
+}
+
+.ce-autocomplete-close {
+  background-color: white !important;
+  border-radius: 0px !important;
+}
